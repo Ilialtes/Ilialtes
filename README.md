@@ -4,7 +4,10 @@
 🖥️ See my portfolio at [www.jeperezdev.com](http://www.jeperezdev.com/)  
 ✉️ You can contact me at [jospeva1210@gmail.com](mailto:jospeva1210@gmail.com)  
 🚀 I'm currently working at [Hatchworks AI](http://hatchworks.com/)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/Jospeva1210?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.x.com/Jospeva1210)
+
+<a href="https://www.x.com/Jospeva1210" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/Jospeva1210?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ---
 
