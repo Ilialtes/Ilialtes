@@ -77,5 +77,7 @@
 
 ### Top Repositories
 
-<!-- Add your top repositories here if you wish -->
+- [Starckade](https://github.com/Chonete-Builders/Starkcade)
+- [CryptoHack](https://github.com/Chonete-Builders/CryptoHack-AI)
+
 
