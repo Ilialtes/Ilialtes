@@ -3,7 +3,7 @@
 🌍 I'm based in Costa Rica  
 🖥️ See my portfolio at [www.jeperezdev.com](http://www.jeperezdev.com/)  
 ✉️ You can contact me at [jospeva1210@gmail.com](mailto:jospeva1210@gmail.com)  
-🚀 I'm currently working at [Intel](http://intel.com/)  
+🚀 I'm currently working at [Cisco](https://www.cisco.com/) as a Senior Application developer  
 
 
 <a href="https://www.x.com/Jospeva1210" target="_blank" rel="noreferrer">
